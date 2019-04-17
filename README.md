@@ -5,3 +5,5 @@
 2. Run 'extend_zabbix.sh' for add needed parameter in 'userparameter_mysql.conf'. The script takes 2 parameters(first machine id and last machine id)
 
 3. Run 'seed_zabbix_conf.sh' for modifing parameter in zabbix agent config. The script takes 1 parameter(id of machine).
+
+4. Add new discovery item, items prototype, triggers prototype to exiting templates.
